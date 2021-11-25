@@ -1,6 +1,6 @@
 # Patrick Ballantyne 
 
-[ABOUT](About.md) | 
+## [About Patrick](About.md) | [Research](Research.md) | [Curriculum Vitae](CV.pdf)
 
 
 ## Hi there!
