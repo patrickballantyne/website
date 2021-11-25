@@ -1,3 +1,8 @@
+# Patrick Ballantyne 
+
+[ABOUT](about) | 
+
+
 ## Hi there!
 
 Welcome to my website! Here I gather everything about myself; who I am, what I enjoy and the research that I am involved in. 
