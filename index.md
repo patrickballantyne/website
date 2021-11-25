@@ -1,6 +1,6 @@
 # Patrick Ballantyne 
 
-[ABOUT](about) | 
+[ABOUT](About.md) | 
 
 
 ## Hi there!
