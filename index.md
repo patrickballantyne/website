@@ -1,3 +1,5 @@
+## Patrick Ballantyne
+
 ## [About Patrick](About.md) | [Research](Research.md) | [Curriculum Vitae](CV.pdf)
 
 
